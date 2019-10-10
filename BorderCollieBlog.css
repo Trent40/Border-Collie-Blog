@@ -1,0 +1,40 @@
+h4 {
+	color: #007bff;
+	}
+
+
+p {
+	font-size: 24px;
+	margin-right: 40px;
+	margin-top: 21px;
+	margin-bottom: 21px;
+	}
+
+
+h1 {
+	text-align: center;
+	}
+
+
+h2 {
+	color: #A94BD2;
+	/*margin-left: 40px;
+	margin-right: 40px;
+	*/
+	text-align: center;
+	}
+
+
+.tab { 
+	margin-left: 40px; 
+	}
+
+
+.tab2 {
+	margin-left: 40px;
+	}
+
+
+.pbg {
+	background-color: #DEFBDF;
+}
